@@ -1,4 +1,4 @@
 Google-Analytics
 ================
 
-Storing Google Analytics Source Code for Cocoa Pods
+This repo is purely used to cache versions of Google Analytics for use within Cocoapods
